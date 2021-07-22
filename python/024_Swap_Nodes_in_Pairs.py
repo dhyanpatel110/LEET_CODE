@@ -5,15 +5,12 @@ Example 1:
 '''
 
 <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250">
-import urllib.request
 from PIL import Image
-  
-urllib.request.urlretrieve(
-  'https://media.geeksforgeeks.org/wp-content/uploads/20210318103632/gfg-300x300.png',
-   "gfg.png")
-  
-img = Image.open("gfg.png")
-img.show()
+import requests
+from io import BytesIO
+
+response = requests.get("https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg")
+img = Image.open(BytesIO(response.content))
 
 CODE:
   class Solution:
