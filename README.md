@@ -5,9 +5,9 @@
 
 | # | Title | Solution | Difficulty |Basic idea (One line) |
 |---| ----- | -------- | ---------- |--------------------- |
-| 1 | Two Sum| [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/001_Two_Sum.py)|Easy| |
-| 2 | Add Two Number| [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/002_Add_Two_Numbers.py)|Medium | |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/003_Longest_Substring_Without_Repeating_Characters.py)| Medium | |
+| 1 | Two Sum| [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/001_Two_Sum.py) | Easy | |
+| 2 | Add Two Number| [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/002_Add_Two_Numbers.py) | Medium | |
+| 3 | [Longest Substring Without Repeating Characters] | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/003_Longest_Substring_Without_Repeating_Characters.py)| Medium | |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/004_Median_of_Two_Sorted_Arrays.py)|	Hard | |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/005_Longest_Palindromic_Substring.py)|	Medium | |
 | 6 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/qiyuangong/leetcode/blob/master/python/005_Longest_Palindromic_Substring.py) [Java](https://github.com/qiyuangong/leetcode/blob/master/java/005_Longest_Palindromic_Substring.java) | [Background knowledge](http://en.wikipedia.org/wiki/Longest_palindromic_substring)<br>1. DP if s[i]==s[j] and P[i+1, j-1] then P[i,j]<br>2. A palindrome can be expanded from its center<br>3. Manacher algorithm|
