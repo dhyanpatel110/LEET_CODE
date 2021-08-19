@@ -10,3 +10,4 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/003_Longest_Substring_Without_Repeating_Characters.py)| Medium | |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/004_Median_of_Two_Sorted_Arrays.py)|	Hard | |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/005_Longest_Palindromic_Substring.py)|	Medium | |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/006_ZigZag_Conversion.py) | Medium | |
