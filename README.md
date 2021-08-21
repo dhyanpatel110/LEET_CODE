@@ -13,3 +13,5 @@
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/006_ZigZag_Conversion.py) | Medium | |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/007_Reverse_Integer.py) | Easy | |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/008_String_to_Integer_(atoi).py)| Medium | |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/009_Palindrome_Number.py) | Easy | |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/011_Container_With_Most_Water.py) | Medium | |
