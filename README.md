@@ -15,3 +15,5 @@
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/008_String_to_Integer_(atoi).py)| Medium | |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/009_Palindrome_Number.py) | Easy | |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/011_Container_With_Most_Water.py) | Medium | |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](/Medium/12.IntegertoRoman.py)|Medium||
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](/Easy/13.RomantoInteger.py)|Easy||
