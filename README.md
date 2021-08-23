@@ -15,5 +15,7 @@
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/008_String_to_Integer_(atoi).py)| Medium | |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/009_Palindrome_Number.py) | Easy | |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/011_Container_With_Most_Water.py) | Medium | |
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/012_Integer_to_Roman.py)|Medium||
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/013_Roman_to_Integer.py)|Easy||
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/012_Integer_to_Roman.py)|Medium| |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/013_Roman_to_Integer.py)|Easy| |
+| 14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/014_Longest_Common_Prefix.py)| Easy | |
+| 15 |[3Sum](https://leetcode.com/problems/3sum/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/015_3Sum.py)| Medium | |
