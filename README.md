@@ -23,3 +23,4 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/017_Letter_Combinations_of_a_Phone_Number.py)| Medium | |
 | 18 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/018_4Sum.py)| Medium | |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/019_Remove_Nth_Node_From_End_of_List.py)| Medium | |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/020_Valid_Parentheses.py)| Easy | |
