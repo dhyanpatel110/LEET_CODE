@@ -25,3 +25,4 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/019_Remove_Nth_Node_From_End_of_List.py)| Medium | |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/020_Valid_Parentheses.py)| Easy | |
 | 21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/021_Merge_Two_Sorted_Lists.py)| Easy | |
+| 23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/023_Merge_k_Sorted_Lists.py)| Hard | |
