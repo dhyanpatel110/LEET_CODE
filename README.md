@@ -28,4 +28,4 @@
 | 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/022_Generate_Parentheses.py)| Medium | |
 | 23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/023_Merge_k_Sorted_Lists.py)| Hard | |
 | 24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/024_Swap_Nodes_in_Pairs.py)| Medium | |
-| 25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](/Hard/25.ReverseNodesink-Group.py)| Hard | |
+| 25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/025_Reverse_Nodes_in_k_Group.py)| Hard | |
