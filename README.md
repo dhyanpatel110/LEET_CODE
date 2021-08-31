@@ -30,4 +30,4 @@
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/024_Swap_Nodes_in_Pairs.py)| Medium | |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/025_Reverse_Nodes_in_k_Group.py)| Hard | |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/026_Remove_Duplicates_from_Sorted_Array.py)| Easy | |
-| 27 |[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/027_Remove Element.py)|Easy| |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/014_Longest_Common_Prefix.py)| Easy | |
