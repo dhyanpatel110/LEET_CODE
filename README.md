@@ -24,10 +24,10 @@
 | 18 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/018_4Sum.py)| Medium | |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/019_Remove_Nth_Node_From_End_of_List.py)| Medium | |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/020_Valid_Parentheses.py)| Easy | |
-| 21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/021_Merge_Two_Sorted_Lists.py)| Easy | |
-| 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/022_Generate_Parentheses.py)| Medium | |
-| 23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/023_Merge_k_Sorted_Lists.py)| Hard | |
-| 24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/024_Swap_Nodes_in_Pairs.py)| Medium | |
-| 25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/025_Reverse_Nodes_in_k_Group.py)| Hard | |
-| 26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/026_Remove_Duplicates_from_Sorted_Array.py)| Easy | |
-| 27 |[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/027_Remove Element.py)| Easy | |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/021_Merge_Two_Sorted_Lists.py)| Easy | |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/022_Generate_Parentheses.py)| Medium | |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/023_Merge_k_Sorted_Lists.py)| Hard | |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/024_Swap_Nodes_in_Pairs.py)| Medium | |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/025_Reverse_Nodes_in_k_Group.py)| Hard | |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/026_Remove_Duplicates_from_Sorted_Array.py)| Easy | |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/027_Remove Element.py)| Easy | |
