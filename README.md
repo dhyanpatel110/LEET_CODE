@@ -31,4 +31,5 @@
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/025_Reverse_Nodes_in_k_Group.py)| Hard | |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/026_Remove_Duplicates_from_Sorted_Array.py)| Easy | |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/027_Remove_Element.py)| Easy | |
+| 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/028_Implement_strStr.py)| Easy | |
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/029_Divide_Two_Integers.py)| Medium | |
