@@ -33,3 +33,4 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/027_Remove_Element.py)| Easy | |
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/028_Implement_strStr.py)| Easy | |
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/029_Divide_Two_Integers.py)| Medium | |
+| 31 |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/031_Next_Permutation.py)| Medium | |
