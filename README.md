@@ -34,4 +34,5 @@
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/028_Implement_strStr.py)| Easy | |
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/029_Divide_Two_Integers.py)| Medium | |
 | 31 |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/031_Next_Permutation.py)| Medium | |
+| 32 |[Next Permutation](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/032_Longest_Valid_Parentheses.py)| Hard | |
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/033_Search_in_Rotated_Sorted_Array.py)| Medium |
