@@ -37,3 +37,4 @@
 | 32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/032_Longest_Valid_Parentheses.py)| Hard | |
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/033_Search_in_Rotated_Sorted_Array.py)| Medium |
 | 34 |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)| Medium |
+| 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/035_Search_Insert_Position.py)| Easy |
