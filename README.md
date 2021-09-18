@@ -40,4 +40,4 @@
 | 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/035_Search_Insert_Position.py)| Easy |
 | 36 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/036_Valid_Sudoku.py)| Medium |
 | 38 |[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/038_Count_and_Say.py)| Medium |
-| 39 |[Count and Say](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/039_Combination_Sum.py)| Medium |
+| 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/039_Combination_Sum.py)| Medium |
