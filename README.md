@@ -43,3 +43,4 @@
 | 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/039_Combination_Sum.py)| Medium |
 | 40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/040_Combination_Sum_II.py)| Medium |
 | 41 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/041_First_Missing_Positive.py)| Hard |
+| 42 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/042_Trapping_Rain_Water.py)| Hard |
