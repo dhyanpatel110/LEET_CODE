@@ -45,3 +45,4 @@
 | 41 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/041_First_Missing_Positive.py)| Hard |
 | 42 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/042_Trapping_Rain_Water.py)| Hard |
 | 43 |[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/043_Multiply_Strings.py)| Medium |
+| 46 |[Permutations](https://leetcode.com/problems/permutations/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/046_Permutations.py)| Medium |
