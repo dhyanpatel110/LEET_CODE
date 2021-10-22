@@ -11,7 +11,8 @@ Example 3:
   Input: n = 3
   Output: ["((()))","(()())","(())()","()(())","()()()"]
 '''
-CODE:
+
+#CODE:
   class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
       
