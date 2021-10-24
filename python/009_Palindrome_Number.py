@@ -9,7 +9,7 @@ Example 2:
   Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 '''
 
-CODE:
+#CODE:
   class Solution:
     def isPalindrome(self, x: int) -> bool:
         return (str(x) == str(x)[::-1])
