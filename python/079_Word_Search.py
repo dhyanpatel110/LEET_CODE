@@ -12,7 +12,7 @@ Example 3:
   Output: false
 '''
 
-CODE:
+#CODE:
   class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         ROWS, COLS = len(board), len(board[0])
