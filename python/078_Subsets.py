@@ -8,7 +8,7 @@ Example 2:
   Output: [[],[0]]
 '''
 
-CODE:
+#CODE:
   class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         #method-1
