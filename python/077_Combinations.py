@@ -16,7 +16,7 @@ Example 2:
   Output: [[1]]
 '''
 
-CODE:
+#CODE:
   class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         #method-1
