@@ -18,7 +18,7 @@ Example 2:
   exection -> execution (insert 'u')
 '''
 
-CODE:
+#CODE:
   class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
         cache = [[0] * (len(word2) + 1) for i in range(len(word1) + 1)]
