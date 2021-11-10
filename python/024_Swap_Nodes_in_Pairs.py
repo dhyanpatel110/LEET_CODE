@@ -4,7 +4,7 @@ Example 1:
   Output: [2,1,4,3]
 '''
 
-CODE:
+#CODE:
   class Solution:
     def swapPairs(self, head: ListNode) -> ListNode:
         d1 = d = ListNode(0)
