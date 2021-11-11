@@ -12,7 +12,7 @@ Example 3:
   Output: true
 """
     
-CODE:
+#CODE:
   class Solution:
     def isValid(self, s: str) -> bool:
         replace = True
