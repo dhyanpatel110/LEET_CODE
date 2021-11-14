@@ -16,7 +16,7 @@
  23321511
 '''
 
-CODE:
+#CODE:
   class Solution:
     def countAndSay(self, n: int) -> str:
         if n == 1:
