@@ -8,7 +8,7 @@ Example 2:
   Output: "56088"
 '''
 
-CODE:
+#CODE:
   class Solution:
     def multiply(self, num1: str, num2: str) -> str:
         if "0" in [num1,num2]:
