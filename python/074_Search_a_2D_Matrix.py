@@ -8,7 +8,7 @@ Example 2:
   Output: false
 '''
 
-CODE:
+#CODE:
   class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         if not matrix:
