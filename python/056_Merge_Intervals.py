@@ -10,7 +10,7 @@ Example 2:
   Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 '''
 
-CODE:
+#CODE:
   class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals.sort(key = lambda i: i[0])
