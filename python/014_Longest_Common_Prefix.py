@@ -7,7 +7,7 @@ Example 2:
   Output: ""
   Explanation: There is no common prefix among the input strings.
 
-CODE:
+#CODE:
   class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         #empty string
