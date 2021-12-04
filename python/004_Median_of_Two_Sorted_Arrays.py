@@ -19,7 +19,7 @@ Example 4:
   Explanation: median(middle) is (2 + 4) / 2 = 3   
 
     
-CODE:
+#CODE:
   class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         ls1 = len(nums1)
