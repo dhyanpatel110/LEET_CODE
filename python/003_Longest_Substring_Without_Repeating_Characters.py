@@ -8,7 +8,7 @@ EXAMPLE 2:
   Output: 1
   Explanation: The answer is "b", with the length of 1.
 
-CODE:
+#CODE:
   class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         charSet = set()
