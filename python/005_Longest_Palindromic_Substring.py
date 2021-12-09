@@ -1,3 +1,4 @@
+'''
 Example 1:
 
 Input: s = "babad"
@@ -8,6 +9,7 @@ Example 2:
 
 Input: s = "baddad"
 Output: "adda" = 4
+'''
 
 #CODE:
   class Solution:
