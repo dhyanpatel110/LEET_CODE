@@ -12,7 +12,7 @@ Example 1:
   1->1->2->3->4->4->5->6
 '''
 
-CODE:
+#CODE:
   class Solution:
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
         self.node = []
