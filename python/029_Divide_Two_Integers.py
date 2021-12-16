@@ -18,7 +18,7 @@ Example 4:
   Output: 1
 '''
 
-CODE:
+#CODE:
   class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
         min_number = -2**31
