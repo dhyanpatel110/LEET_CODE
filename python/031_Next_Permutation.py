@@ -12,7 +12,7 @@ Example 3:
   Output: [1,5,1]
 '''
 
-CODE:
+#CODE:
   class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
         length = len(nums)
