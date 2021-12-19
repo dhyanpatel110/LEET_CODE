@@ -12,7 +12,7 @@ Example 3:
   Output: [-1,-1]
 '''
 
-CODE:
+#CODE:
   class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         left = self.binSearch(nums,target,True)
