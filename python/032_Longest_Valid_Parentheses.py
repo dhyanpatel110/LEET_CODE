@@ -14,7 +14,7 @@ Example 3:
   Output: 0
 '''
 
-CODE:
+#CODE:
   class Solution:
     def longestValidParentheses(self, s: str) -> int:
         stack = [-1]
