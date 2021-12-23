@@ -12,7 +12,7 @@ Example 3:
   Output: 1
 '''
 
-CODE:
+#CODE:
   METHOD(1):
   class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
