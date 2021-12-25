@@ -16,7 +16,7 @@ Example 4:
   Output: [1]
 '''
 
-CODE:
+#CODE:
   METHOD(1):
     class Solution:
     def sortColors(self, nums: List[int]) -> None:
