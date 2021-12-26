@@ -9,7 +9,7 @@ Example 2:
   Output: 9
 '''
 
-CODE:
+#CODE:
   class Solution:
     def trap(self, height: List[int]) -> int:
         if not height:
