@@ -1,3 +1,4 @@
+
 EXAMPLE 1:
   Input: s = "abcabcbb"
   Output: 3
@@ -7,6 +8,7 @@ EXAMPLE 2:
   Input: s = "bbbbb"
   Output: 1
   Explanation: The answer is "b", with the length of 1.
+'''
 
 #CODE:
   class Solution:
