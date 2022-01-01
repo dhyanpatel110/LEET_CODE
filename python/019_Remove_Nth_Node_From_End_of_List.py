@@ -9,6 +9,7 @@ Example 3:
   Input: head = [1,2], n = 1
     Output: [1]
 '''
+
 #CODE:
   class Solution:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
