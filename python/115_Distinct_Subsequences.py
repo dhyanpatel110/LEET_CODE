@@ -1,3 +1,4 @@
+'''
 Example 1:
 Input: s = "rabbbit", t = "rabbit"
 Output: 3
@@ -17,6 +18,7 @@ babgbag
 babgbag
 babgbag
 babgbag
+'''
 
 #CODE:
   class Solution:
