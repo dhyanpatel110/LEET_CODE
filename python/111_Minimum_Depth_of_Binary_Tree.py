@@ -1,3 +1,4 @@
+'''
 Example 1:
               3
              / \
@@ -11,7 +12,8 @@ Output: 2
 Example 2:
 Input: root = [2,null,3,null,4,null,5,null,6]
 Output: 5
-  
+'''
+
 #CODE:
   # Definition for a binary tree node.
   # class TreeNode:
