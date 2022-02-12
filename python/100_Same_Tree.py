@@ -1,3 +1,4 @@
+'''
 Example 1:
                1         1
               / \       / \
@@ -21,7 +22,8 @@ Example 3:
 
 Input: p = [1,2,1], q = [1,1,2]
 Output: false
-  
+'''
+
 #CODE:
   # Definition for a binary tree node.
   # class TreeNode:
