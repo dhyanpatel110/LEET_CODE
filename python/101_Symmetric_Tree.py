@@ -1,3 +1,4 @@
+'''
 Example 1:
 
             1
@@ -17,6 +18,7 @@ Example 2:
            3    3
 Input: root = [1,2,2,null,3,null,3]
 Output: false
+'''
 
 #CODE:
   # Definition for a binary tree node.
