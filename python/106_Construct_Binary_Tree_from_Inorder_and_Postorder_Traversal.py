@@ -1,5 +1,6 @@
+'''
 Example 1:
-                 3
+                       3
 	              / \
 	             9  20
 	               /  \
@@ -11,7 +12,8 @@ Output: [3,9,20,null,null,15,7]
 Example 2:
 Input: inorder = [-1], postorder = [-1]
 Output: [-1]
-  
+'''
+
 #CODE:
   # Definition for a binary tree node.
   # class TreeNode:
