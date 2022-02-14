@@ -1,3 +1,4 @@
+'''
 Example 1:
                 0
 	             / \
@@ -23,7 +24,7 @@ Example 2:
 Input: nums = [1,3]
 Output: [3,1]
 Explanation: [1,3] and [3,1] are both a height-balanced BSTs.
- 
+'''
 
 #CODE:
   # Definition for a binary tree node.
