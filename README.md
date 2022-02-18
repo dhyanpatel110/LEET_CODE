@@ -49,3 +49,4 @@
 | 47 |[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/047_Permutations_II.py)| Medium |
 | 48 |[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/048_Rotate_Image.py)| Medium |
 | 49 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/049_Group_Anagrams.py)| Medium |
+| 50 |[Pow(x, n)](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/050_Pow(x, n).py)| Medium |
