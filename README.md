@@ -51,3 +51,4 @@
 | 49 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/049_Group_Anagrams.py)| Medium |
 | 50 |[Pow(x, n)](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/050_Pow(x,n).py)| Medium |
 | 51 |[N_Queens](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/051_N_Queens.py)| Medium |
+| 52 |[N_Queens_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/052_N_Queens_II.py)| Medium |
