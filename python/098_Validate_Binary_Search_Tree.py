@@ -1,7 +1,5 @@
-
-'''E
-
-xample 1:
+'''
+Example 1:
 
             2
            / \
