@@ -54,4 +54,5 @@
 | 52 |[N_Queens_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/052_N_Queens_II.py)| Medium |
 | 53 |[Maximum_Subarray](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/053_Maximum_Subarray.py)| Medium |
 | 54 |[Spiral_Matrix](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/054_Spiral_Matrix.py)| Medium |
+| 55 |[Jump_Game](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/055_Jump_Game.py)| Medium |
 
