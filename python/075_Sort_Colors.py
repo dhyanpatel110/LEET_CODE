@@ -17,7 +17,7 @@ Example 4:
 '''
 
 #CODE:
-  METHOD(1):
+  #METHOD(1):
     class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
