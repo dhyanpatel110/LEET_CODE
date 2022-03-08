@@ -29,7 +29,7 @@ Example 4:
                 if nums[j] > nums[j+1]:
                     nums[j], nums[j+1] = nums[j+1], nums[j]
                         
-  METHOD(2):
+  #METHOD(2):
     class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
