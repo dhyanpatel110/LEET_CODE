@@ -12,7 +12,7 @@ Example 3:
   Output: 0
 '''
 
-CODE:
+#CODE:
   class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         if len(needle) == 0:
