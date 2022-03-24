@@ -28,7 +28,7 @@ Explanation: This an empty graph, it does not have any nodes.
           self.neighbors = neighbors if neighbors is not None else []
   """
 
-  class Solution:
+  #class Solution:
      def cloneGraph(self, node: 'Node') -> 'Node':
           oldToNew = {}
         
