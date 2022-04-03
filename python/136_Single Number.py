@@ -12,7 +12,7 @@ Input: nums = [1]
 Output: 1
 '''
 
-CODE:
+#CODE:
   class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         res = 0 # n ^ 0 = n
