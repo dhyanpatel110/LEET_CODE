@@ -61,4 +61,5 @@
 | 59 |[Spiral_Matrix_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/059_Spiral_Matrix_II.py)| Medium |
 | 60 |[Permutation_Sequence](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/060_Permutation_Sequence.py)| Medium |
 | 61 |[Rotate_List](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/061_Rotate_List.py)| Medium |
+| 62 |[Unique_Paths](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/062_Unique_Paths.py)| Medium |
 
