@@ -14,7 +14,7 @@ Output: "example good a"
 Explanation: You need to reduce multiple spaces between two words to a single space in the reversed string.
 '''
 
-CODE:
+#CODE:
   class Solution:
     def reverseWords(self, s: str) -> str:
         return " ".join(s.split()[::-1])
