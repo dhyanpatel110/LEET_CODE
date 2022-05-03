@@ -50,7 +50,7 @@
 | 48 |[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/048_Rotate_Image.py)| Medium |
 | 49 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/049_Group_Anagrams.py)| Medium |
 | 50 |[Pow(x, n)](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/050_Pow(x,n).py)| Medium |
-| 51 |[N_Queens](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/051_N_Queens.py)| Medium |
+| 51 |[N_Queens](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/051_N_Queens.py)| Hard |
 | 52 |[N_Queens_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/052_N_Queens_II.py)| Medium |
 | 53 |[Maximum_Subarray](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/053_Maximum_Subarray.py)| Easy |
 | 54 |[Spiral_Matrix](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/054_Spiral_Matrix.py)| Medium |
