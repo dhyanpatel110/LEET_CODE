@@ -51,7 +51,7 @@
 | 49 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/049_Group_Anagrams.py)| Medium |
 | 50 |[Pow(x, n)](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/050_Pow(x,n).py)| Medium |
 | 51 |[N_Queens](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/051_N_Queens.py)| Hard |
-| 52 |[N_Queens_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/052_N_Queens_II.py)| Medium |
+| 52 |[N_Queens_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/052_N_Queens_II.py)| Hard |
 | 53 |[Maximum_Subarray](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/053_Maximum_Subarray.py)| Easy |
 | 54 |[Spiral_Matrix](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/054_Spiral_Matrix.py)| Medium |
 | 55 |[Jump_Game](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/055_Jump_Game.py)| Medium |
