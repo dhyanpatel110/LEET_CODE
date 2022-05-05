@@ -65,4 +65,4 @@
 | 63 |[Unique_Paths_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/063_Unique_Paths_II.py)| Medium |
 | 64 |[Minimum_Path_Sum](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/064_Minimum_Path_Sum.py)| Medium |
 | 65 |[Valid_Number](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/065_Valid_Number.py)| Hard |
-
+| 66 |[Plus_One](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/066_Plus_One.py)| Hard |
