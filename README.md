@@ -68,5 +68,4 @@
 | 66 |[Plus_One](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/066_Plus_One.py)| Hard |
 | 67 |[Add_Binary](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/067_Add_Binary.py)| Easy |
 | 68 |[Text_Justification](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/068_Text_Justification.py)| Hard |
-| 69 |[Text_Justification](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/069_Sqrt(x).py)| 
-Easy |
+| 69 |[Text_Justification](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/069_Sqrt(x).py)| Easy |
