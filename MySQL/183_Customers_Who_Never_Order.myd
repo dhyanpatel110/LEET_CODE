@@ -1,0 +1,45 @@
+'''
+Example 1:
+
+Input: 
+Customers table:
++----+-------+
+| id | name  |
++----+-------+
+| 1  | Joe   |
+| 2  | Henry |
+| 3  | Sam   |
+| 4  | Max   |
++----+-------+
+Orders table:
++----+------------+
+| id | customerId |
++----+------------+
+| 1  | 3          |
+| 2  | 1          |
++----+------------+
+Output: 
++-----------+
+| Customers |
++-----------+
+| Henry     |
+| Max       |
++-----------+
+
+'''
+
+CODE:
+
+METHOD(1):
+
+SELECT Name AS Customers
+FROM Customers LEFT JOIN Orders ON Customers.Id = Orders.CustomerId 
+WHERE CustomerId IS NULL
+
+METHOD(2):
+
+SELECT Name AS Customers
+FROM Customers
+WHERE Id NOT IN (SELECT CustomerId FROM Orders)
+
+
