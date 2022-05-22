@@ -71,3 +71,4 @@
 | 69 |[Sqrt(x).py](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/069_Sqrt(x).py)| Easy |
 | 70 |[Climbing_Stairs](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/070_Climbing_Stairs.py)| Easy |
 | 71 |[Simplify_Path](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/071_Simplify_Path.py)|Medium|
+| 72 |[Edit_Distance](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/072_Edit_Distance)|Medium|
