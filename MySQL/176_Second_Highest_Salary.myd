@@ -1,0 +1,52 @@
+'''
+Example 1:
+
+Input: 
+Employee table:
++----+--------+
+| id | salary |
++----+--------+
+| 1  | 100    |
+| 2  | 200    |
+| 3  | 300    |
++----+--------+
+
+Output: 
++---------------------+
+| SecondHighestSalary |
++---------------------+
+| 200                 |
++---------------------+
+
+Example 2:
+
+Input: 
+Employee table:
++----+--------+
+| id | salary |
++----+--------+
+| 1  | 100    |
++----+--------+
+
+Output: 
++---------------------+
+| SecondHighestSalary |
++---------------------+
+| null                |
++---------------------+
+
+'''
+
+#CODE:
+
+  METHOD(1):
+    SELECT MAX(Salary) AS SecondHighestSalary FROM Employee WHERE Salary NOT IN (SELECT MAX(Salary)FROM Employee)
+  
+  METHOD(2):
+    SELECT MAX(Salary)AS SecondHighestSalary FROM Employee WHERE Salary < (SELECT MAX(Salary)FROM Employee)
+  
+  METHOD(3):
+    SELECT MAX(Salary)AS SecondHighestSalary FROM Employee WHERE Salary < (SELECT Salary FROM Employee ORDER BY Salary DESC LIMIT 1)
+    
+    
+    
