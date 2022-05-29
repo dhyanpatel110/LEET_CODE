@@ -30,7 +30,7 @@ Output:
 Explanation: Max and Jim both have the highest salary in the IT department and Henry has the highest salary in the Sales department.
 '''
 
-CODE:
+#CODE:
 
   # STEP-1 JOIN TABLE (EMPLOYEE + DEPARTMENT)
 
