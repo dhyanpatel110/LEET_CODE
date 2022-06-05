@@ -25,7 +25,7 @@ Output:
 Explanation: 1 is the only number that appears consecutively for at least three times.
 '''
 
-CODE:
+#CODE:
 
   SELECT DISTINCT a.num AS ConsecutiveNums FROM Logs a 
   JOIN Logs b ON a.id = b.id+1 AND a.num = b.num 
