@@ -19,7 +19,7 @@ minStack.top();    // return 0
 minStack.getMin(); // return -2
 '''
 
-CODE:
+#CODE:
   class MinStack:
 
     def __init__(self): 
