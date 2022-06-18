@@ -17,7 +17,7 @@ trie.insert("app");
 trie.search("app");     // return True
 '''
 
-CODE:
+#CODE:
   class TrieNode:
     def __init__(self):
         self.children = {}
