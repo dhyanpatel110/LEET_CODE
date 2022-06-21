@@ -13,7 +13,7 @@ Input: target = 11, nums = [1,1,1,1,1,1,1,1]
 Output: 0
 '''
 
-CODE:
+#CODE:
   class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
             l = 0
