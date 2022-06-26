@@ -16,7 +16,7 @@ Input: head = [7,7,7,7], val = 7
 Output: []
 '''
 
-CODE:
+#CODE:
   # Definition for singly-linked list.
   # class ListNode:
   #     def __init__(self, val=0, next=None):
