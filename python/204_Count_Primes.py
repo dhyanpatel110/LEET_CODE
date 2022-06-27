@@ -13,7 +13,7 @@ Input: n = 1
 Output: 0
 '''
 
-CODE:
+#CODE:
   class Solution:
     def countPrimes(self, n: int) -> int:
         is_prime = [True] * n
