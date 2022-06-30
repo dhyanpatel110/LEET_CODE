@@ -15,7 +15,7 @@ Output: 4
         nums.sort()
         return nums[len(nums) - k]
       
-  #METHOD (2):
+  #METHOD (2)(quick sort):
     class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         k = len(nums) - k
