@@ -72,3 +72,5 @@
 | 70 |[Climbing_Stairs](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/070_Climbing_Stairs.py)| Easy |
 | 71 |[Simplify_Path](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/071_Simplify_Path.py)|Medium|
 | 72 |[Edit_Distance](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/072_Edit_Distance.py)|Medium|
+| 73 |[Set_Matrix_Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/073_Set_Matrix_Zeroes.py)|Medium|
+| 74 |[Search_a_2D_Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/074_Search_a_2D_Matrix.py)|Medium|
