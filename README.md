@@ -78,3 +78,5 @@
 | 76 |[Minimum_Window_Substring](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/076_Minimum_Window_Substring.py)|Hard|
 | 77 |[Combinations](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/077_Combinations.py)|Medium|
 | 78 |[Subsets](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/078_Subsets.py)|Medium|
+| 79 |[Word_Search](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/079_Word_Search.py)|Medium|
+
