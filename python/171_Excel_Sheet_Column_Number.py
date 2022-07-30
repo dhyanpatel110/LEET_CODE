@@ -12,7 +12,7 @@ Input: columnTitle = "ZY"
 Output: 701
 '''
 
-CODE:
+#CODE:
   class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
         res = 0
