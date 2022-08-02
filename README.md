@@ -83,3 +83,4 @@
 | 81 |[Search_in_Rotated_Sorted_Array_II](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/081_Search_in_Rotated_Sorted_Array_II.py)|Medium|
 | 82 |[Remove_Duplicates_from_Sorted_List_II](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/082_Remove_Duplicates_from_Sorted_List_II.py)|Medium|
 | 83 |[Remove_Duplicates_from_Sorted_List](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/083_Remove_Duplicates_from_Sorted_List.py)|Easy|
+| 86 |[Remove_Duplicates_from_Sorted_List](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/086_Partition_List.py)|Medium|
