@@ -86,3 +86,4 @@
 | 86 |[Partition_List](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/086_Partition_List.py)|Medium|
 | 88 |[Merge_Sorted_Array](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/088_Merge_Sorted_Array.py)|Easy|
 | 90 |[Subsets_II](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/090_Subsets_II.py)|Medium|
+| 91 |[Decode_Ways](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/091_Decode_Ways.py)|Medium|
