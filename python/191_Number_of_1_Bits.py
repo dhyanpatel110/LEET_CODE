@@ -15,7 +15,7 @@ Output: 31
 Explanation: The input binary string 11111111111111111111111111111101 has a total of thirty one '1' bits.
 '''
 
-CODE:
+#CODE:
   class Solution:
     def hammingWeight(self, n: int) -> int:
         res = 0
