@@ -90,4 +90,5 @@
 | 92 |[Reverse_Linked_List_II](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/092_Reverse_Linked_List_II.py)|Medium|
 | 93 |[Restore_IP_Addresses](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/093_Restore_IP_Addresses.py)|Medium|
 | 98 |[Validate_Binary_Search_Tree](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/098_Validate_Binary_Search_Tree.py)|Medium|
-| 100 |[Same_Tree](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/100_Same_Tree.py)|Medium|
+| 100 |[Same_Tree](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/100_Same_Tree.py)|Easy|
+| 101 |[Symmetric_Tree](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/101_Symmetric_Tree.py)|Easy|
