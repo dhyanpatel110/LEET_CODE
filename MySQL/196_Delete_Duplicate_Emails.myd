@@ -1,0 +1,28 @@
+'''
+Example 1:
+
+Input: 
+Person table:
++----+------------------+
+| id | email            |
++----+------------------+
+| 1  | john@example.com |
+| 2  | bob@example.com  |
+| 3  | john@example.com |
++----+------------------+
+Output: 
++----+------------------+
+| id | email            |
++----+------------------+
+| 1  | john@example.com |
+| 2  | bob@example.com  |
++----+------------------+
+Explanation: john@example.com is repeated two times. We keep the row with the smallest Id = 1
+'''
+
+#CODE:
+
+  DELETE p2 FROM Person p1 JOIN Person p2 On p1.Email = p2.Email AND p1.Id < p2.Id
+  
+  
+  
