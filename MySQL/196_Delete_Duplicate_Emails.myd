@@ -22,7 +22,14 @@ Explanation: john@example.com is repeated two times. We keep the row with the sm
 
 #CODE:
 
-  DELETE p2 FROM Person p1 JOIN Person p2 On p1.Email = p2.Email AND p1.Id < p2.Id
+DELETE
+   p2 
+FROM
+   Person p1 
+   JOIN
+      Person p2 
+      On p1.Email = p2.Email 
+      AND p1.Id < p2.Id
   
   
   
