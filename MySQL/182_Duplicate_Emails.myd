@@ -19,7 +19,7 @@ Output:
 Explanation: a@b.com is repeated two times.
 '''
 
-CODE:
+#CODE:
 
 METHOD(1):
 SELECT Email FROM 
