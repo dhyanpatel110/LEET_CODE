@@ -99,4 +99,4 @@
 | 108 |[Convert_Sorted_Array_to_Binary_Search_Tree](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)|Easy|
 | 110 |[110_Balanced_Binary_Tree](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/110_Balanced_Binary_Tree.py)|Medium|
 | 111 |[111_Minimum_Depth_of_Binary_Tree](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/111_Minimum_Depth_of_Binary_Tree.py)|Medium|
-| 111 |[112_Path_Sum](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/112_Path_Sum.py)|Medium|
+| 112 |[112_Path_Sum](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/112_Path_Sum.py)|Medium|
