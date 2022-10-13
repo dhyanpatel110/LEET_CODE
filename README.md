@@ -103,4 +103,5 @@
 | 113 |[113_Path_Sum_II](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/113_Path_Sum_II.py)|Medium|
 | 114 |[114_Flatten_Binary_Tree_to_Linked_List](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/114_Flatten_Binary_Tree_to_Linked_List.py)|Medium|
 | 115 |[115_Distinct_Subsequences](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/115_Distinct_Subsequences.py)|Medium|
+| 116 |[Populating_Next_Right_Pointers_in_Each_Node](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/116_Populating_Next_Right_Pointers_in_Each_Node.py)|Medium|
 
