@@ -1,8 +1,10 @@
-#42 {42}
-#-42 {-42}
-#4193 with wprds {word started with numneric 4193 is accepted other words are avoide}
-#words and 987 {word starting with string so hole sentance are avoide}
-#-91283472332 {it is out of range  conver to -2147483648}
+'''
+42 {42}
+-42 {-42}
+4193 with wprds {word started with numneric 4193 is accepted other words are avoide}
+words and 987 {word starting with string so hole sentance are avoide}
+-91283472332 {it is out of range  conver to -2147483648}
+'''
 
 #CODE:
              
