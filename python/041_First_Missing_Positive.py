@@ -13,7 +13,7 @@ Example 3:
 '''
 
 #CODE:
-  METHOD(1):
+  #METHOD(1):
   class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
         seen = set()
@@ -26,7 +26,7 @@ Example 3:
         return output
       
      
-  METHOD(2):
+  #METHOD(2):
     class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
         ls = len(nums)
