@@ -104,7 +104,7 @@
 | 114 |[Flatten_Binary_Tree_to_Linked_List](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/114_Flatten_Binary_Tree_to_Linked_List.py)|Medium|
 | 115 |[Distinct_Subsequences](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/115_Distinct_Subsequences.py)|Medium|
 | 116 |[Populating_Next_Right_Pointers_in_Each_Node](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/116_Populating_Next_Right_Pointers_in_Each_Node.py)|Medium|
-| 392 |[Is_Subsequence](https://leetcode.com/problems/is-Subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/392_Is_Subsequence.py)|Easy|
+| 392 |[Is_Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/392_Is_Subsequence.py)|Easy|
 | 394 |[Decode_String](https://leetcode.com/problems/decode-string/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/394_Decode_String.py)|Medium|
 | 399 |[Evaluate_Division](https://leetcode.com/problems/evaluate-division/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/399_Evaluate_Division.py)|Medium|
 
