@@ -105,6 +105,7 @@
 | 115 |[Distinct_Subsequences](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/115_Distinct_Subsequences.py)|Medium|
 | 116 |[Populating_Next_Right_Pointers_in_Each_Node](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/116_Populating_Next_Right_Pointers_in_Each_Node.py)|Easy|
 | 118 |[Pascal's_Triangle](https://leetcode.com/problems/pascal's-triangle/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/118_Pascal's_Triangle.py)|Medium|
+| 119 |[Pascal's_Triangle_II](https://leetcode.com/problems/pascals-triangle-ii)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/119_Pascal's_Triangle_II.py)|Easy|
 | 389 |[Find_the_Difference](https://leetcode.com/problems/find-the-difference/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/389_Find_the_Difference.py)|Easy|
 | 390 |[Elimination_Game](https://leetcode.com/problems/elimination-game/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
 | 392 |[Is_Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Easy|
