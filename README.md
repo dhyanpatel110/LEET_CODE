@@ -120,7 +120,7 @@
 | 134 |[Gas_Station](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/134_Gas_Station.py)|Medium|
 | 135 |[Candy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/135_Candy.py)|Medium|
 | 136 |[Single Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/136_Single_Number.py)|Medium|
-| 137 |[Single_Number_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/137_Single_Number_II.py)|Medium|
+| 137 |[Single_Number_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/137_Single_Number_II.py)|Easy|
 | 389 |[Find_the_Difference](https://leetcode.com/problems/find-the-difference/120_Triangle.py)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/389_Find_the_Difference.py)|Easy|
 | 390 |[Elimination_Game](https://leetcode.com/problems/elimination-game/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
 | 392 |[Is_Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Easy|
