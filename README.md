@@ -119,7 +119,7 @@
 | 133 |[Clone_Graph](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/133_Clone_Graph.py)|Medium|
 | 134 |[Gas_Station](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/134_Gas_Station.py)|Medium|
 | 135 |[Candy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/135_Candy.py)|Medium|
-| 136 |[Single Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/136_Single_Number.py)|Medium|
+| 136 |[Single Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/136_Single_Number.py)|Easy|
 | 137 |[Single_Number_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/137_Single_Number_II.py)|Easy|
 | 139 |[Word_Break](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/139_Word_Break.py)|Easy|
 | 141 |[Linked_List_Cycle](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/141_Linked_List_Cycle.py)|Easy|
