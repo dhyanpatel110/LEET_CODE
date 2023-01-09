@@ -140,6 +140,7 @@
 | 189 |[Rotate_Array](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/189_Rotate_Array.py)|Medium|
 | 190 |[Reverse_Bits](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/190_Reverse_Bits.py)|Medium|
 | 191 |[Number_of_1_Bits](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/191_Number_of_1_Bits.py)|Medium|
+| 202 |[Happy_Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/202_Happy_Number.py)|Medium|
 | 389 |[Find_the_Difference](https://leetcode.com/problems/find-the-difference/155_Min_Stack.py)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/389_Find_the_Difference.py)|Easy|
 | 390 |[Elimination_Game](https://leetcode.com/problems/elimination-game/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
 | 392 |[Is_Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Easy|
