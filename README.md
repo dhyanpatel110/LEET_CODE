@@ -143,6 +143,7 @@
 | 202 |[Happy_Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/202_Happy_Number.py)|Medium|
 | 203 |[Remove_Linked_List_Elements](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/203_Remove_Linked_List_Elements.py)|Medium|
 | 204 |[Count_Primes](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/204_Count_Primes.py)|Medium|
+| 205 |[Isomorphic_Strings](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/205_Isomorphic_Strings.py)|Medium|
 | 389 |[Find_the_Difference](https://leetcode.com/problems/find-the-difference/155_Min_Stack.py)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/389_Find_the_Difference.py)|Easy|
 | 390 |[Elimination_Game](https://leetcode.com/problems/elimination-game/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
 | 392 |[Is_Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Easy|
