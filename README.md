@@ -149,6 +149,7 @@
 | 208 |[Implement_Trie(Prefix_Tree)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/208_Implement_Trie(Prefix_Tree).py)|Medium|
 | 209 |[Minimum_Size_Subarray_Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/209_Minimum_Size_Subarray_Sum.py)|Medium|
 | 213 |[House_Robber_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/213_House_Robber_II.py)|Medium|
+| 214 |[Shortest_Palindrome](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/214_Shortest_Palindrome.py)|Medium|
 | 389 |[Find_the_Difference](https://leetcode.com/problems/find-the-difference/155_Min_Stack.py)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/389_Find_the_Difference.py)|Easy|
 | 390 |[Elimination_Game](https://leetcode.com/problems/elimination-game/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
 | 392 |[Is_Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Easy|
