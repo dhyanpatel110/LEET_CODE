@@ -155,7 +155,7 @@
 | 217 |[Contains_Duplicate](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/217_Contains_Duplicate.py)|Medium|
 | 218 |[The_Skyline_Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/218_The_Skyline_Problem.py)|Medium|
 | 219 |[Contains_Duplicate_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/219_Contains_Duplicate_II.py)|Medium|
-| 221 |[Maximal_Square](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/221_Maximal_Square.py)|Medium|
+| 221 |[Maximal_Square](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/221_Maximal_Square.py)|Easy|
 | 222 |[Count_Complete_Tree_Nodes](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/222_Count_Complete_Tree_Nodes.py)|Medium|
 | 389 |[Find_the_Difference](https://leetcode.com/problems/find-the-difference/155_Min_Stack.py)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/389_Find_the_Difference.py)|Easy|
 | 390 |[Elimination_Game](https://leetcode.com/problems/elimination-game/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
