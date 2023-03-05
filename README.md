@@ -65,7 +65,7 @@
 | 63 |[Unique_Paths_II](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/063_Unique_Paths_II.py)| Medium |
 | 64 |[Minimum_Path_Sum](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/064_Minimum_Path_Sum.py)| Medium |
 | 65 |[Valid_Number](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/065_Valid_Number.py)| Hard |
-| 66 |[Plus_One](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/066_Plus_One.py)| Hard |
+| 66 |[Plus_One](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/066_Plus_One.py)| Easy |
 | 67 |[Add_Binary](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/067_Add_Binary.py)| Easy |
 | 68 |[Text_Justification](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/068_Text_Justification.py)| Hard |
 | 69 |[Sqrt(x).py](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/069_Sqrt(x).py)| Easy |
