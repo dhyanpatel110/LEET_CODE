@@ -152,7 +152,7 @@
 | 214 |[Shortest_Palindrome](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/214_Shortest_Palindrome.py)|Medium|
 | 215 |[Kth_Largest_Element_in_an_Array](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/215_Kth_Largest_Element_in_an_Array.py)|Easy|
 | 216 |[Combination_Sum_III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/216_Combination_Sum_III.py)|Easy|
-| 217 |[Contains_Duplicate](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/217_Contains_Duplicate.py)|Easy|
+| 217 |[Contains_Duplicate](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/217_Contains_Duplicate.py)|Medium|
 | 218 |[The_Skyline_Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/218_The_Skyline_Problem.py)|Easy|
 | 219 |[Contains_Duplicate_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/219_Contains_Duplicate_II.py)|Medium|
 | 221 |[Maximal_Square](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/221_Maximal_Square.py)|Medium|
