@@ -14,6 +14,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/007_Reverse_Integer.py) | Medium | |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/008_String_to_Integer_(atoi).py)| Medium | |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/009_Palindrome_Number.py) | Easy | |
+| 10 | [Regular_Expression_Matching](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/010_Regular_Expression_Matching.py) | Hard | |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/011_Container_With_Most_Water.py) | Medium | |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/012_Integer_to_Roman.py)|Medium| |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/013_Roman_to_Integer.py)|Easy| |
