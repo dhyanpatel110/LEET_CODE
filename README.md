@@ -109,7 +109,7 @@
 | 114 |[Flatten_Binary_Tree_to_Linked_List](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/114_Flatten_Binary_Tree_to_Linked_List.py)|Medium|
 | 115 |[Distinct_Subsequences](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/115_Distinct_Subsequences.py)|Hard|
 | 116 |[Populating_Next_Right_Pointers_in_Each_Node](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/116_Populating_Next_Right_Pointers_in_Each_Node.py)|Medium|
-| 118 |[Pascal's_Triangle](https://leetcode.com/problems/pascal's-triangle/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/118_Pascal's_Triangle.py)|Medium|
+| 118 |[Pascal's_Triangle](https://leetcode.com/problems/pascal's-triangle/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/118_Pascal's_Triangle.py)|Easy|
 | 119 |[Pascal's_Triangle_II](https://leetcode.com/problems/pascals-triangle-ii)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/119_Pascal's_Triangle_II.py)|Easy|
 | 120 |[triangle](https://leetcode.com/problems/pascals-triangle-ii)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/)|Medium|
 | 121 |[Merge_Two_Sorted_Lists](https://leetcode.com/problems/pascals-triangle-ii)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/021_Merge_Two_Sorted_Lists.py)|Easy|
