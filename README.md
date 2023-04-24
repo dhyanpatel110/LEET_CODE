@@ -115,7 +115,7 @@
 | 121 |[Merge_Two_Sorted_Lists](https://leetcode.com/problems/pascals-triangle-ii)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/021_Merge_Two_Sorted_Lists.py)|Easy|
 | 122 |[Best_Time_to_Buy_and_Sell_Stock_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)|Medium|
 | 123 |[Best_Time_to_Buy_and_Sell_Stock_III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/123_Best_Time_to_Buy_and_Sell_Stock_III.py)|Hard|
-| 124 |[Binary_Tree_Maximum_Path_Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/124_Binary_Tree_Maximum_Path_Sum.py)|Medium|
+| 124 |[Binary_Tree_Maximum_Path_Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/124_Binary_Tree_Maximum_Path_Sum.py)|Hard|
 | 125 |[Valid_Palindrome](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/125_Valid_Palindrome.py)|Medium|
 | 127 |[Word_Ladder](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/127_Word_Ladder.py)|Hard|
 | 128 |[Longest_Consecutive_Sequence](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/128_Longest_Consecutive_Sequence.py)|Medium|
