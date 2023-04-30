@@ -131,6 +131,7 @@
 | 142 |[Linked_List_Cycle_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/142_Linked_List_Cycle_II.py)|Medium|
 | 143 |[Reorder_List](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/143_Reorder_List.py)|Medium|
 | 144 |[Binary_Tree_Preorder_Traversal](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/144_Binary_Tree_Preorder_Traversal.py)|Easy|
+| 145 |[Binary_Tree_Postorder_Traversal](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/145_Binary_Tree_Postorder_Traversal.py)|Easy|
 | 147 |[Insertion_Sort_List](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/147_Insertion_Sort_List.py)|Medium|
 | 148 |[Sort_List](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/148_Sort_List.py)|Easy|
 | 151 |[Reverse_Words_in_a_String](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/151_Reverse_Words_in_a_String.py)|Medium|
