@@ -137,7 +137,7 @@
 | 151 |[Reverse_Words_in_a_String](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/151_Reverse_Words_in_a_String.py)|Medium|
 | 152 |[Maximum_Product_Subarray](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/152_Maximum_Product_Subarray.py)|Medium|
 | 155 |[Min_Stack](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/152_Maximum_Product_Subarray.py)|Medium|
-| 171 |[Excel_Sheet_Column_Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/171_Excel_Sheet_Column_Number.py)|Medium|
+| 171 |[Excel_Sheet_Column_Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/171_Excel_Sheet_Column_Number.py)|Easy|
 | 172 |[Factorial_Trailing_Zeroes](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/172_Factorial_Trailing_Zeroes.py)|Medium|
 | 173 |[Binary_Search_Tree_Iterator](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/173_Binary_Search_Tree_Iterator.py)|Easy|
 | 179 |[Largest_Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/179_Largest_Number.py)|Medium|
