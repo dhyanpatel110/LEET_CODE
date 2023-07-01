@@ -167,5 +167,5 @@
 | 390 |[Elimination_Game](https://leetcode.com/problems/elimination-game/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
 | 392 |[Is_Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/390_Elimination_Game.py)|Medium|
 | 394 |[Decode_String](https://leetcode.com/problems/decode-string/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/394_Decode_String.py)|Medium|
-| 399 |[Evaluate_Division](https://leetcode.com/problems/evaluate-division/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/399_Evaluate_Division.py)|Easy|
+| 399 |[Evaluate_Division](https://leetcode.com/problems/evaluate-division/)|[Python](https://github.com/dhyanpatel110/LEET_CODE/blob/master/python/399_Evaluate_Division.py)|Medium|
 
